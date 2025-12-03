@@ -1,0 +1,35 @@
+[22:15:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:15:11] [ServerMain/INFO]: Loaded 1461 recipes
+[22:15:11] [ServerMain/INFO]: Loaded 1574 advancements
+[22:15:11] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[22:15:11] [Server thread/INFO]: Loading properties
+[22:15:11] [Server thread/INFO]: Default game type: SURVIVAL
+[22:15:11] [Server thread/INFO]: Generating keypair
+[22:15:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:15:11] [Server thread/INFO]: Using epoll channel type
+[22:15:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:15:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:15:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:15:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:15:11] [Server thread/INFO]: Preparing level "world"
+[22:15:12] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:15:12] [Server thread/INFO]: Preparing spawn area: 100%
+[22:15:12] [Server thread/INFO]: Time elapsed: 17 ms
+[22:15:12] [Server thread/INFO]: Done (0.530s)! For help, type "help"
+[22:15:42] [Server thread/INFO]: LightAster[/127.101.151.12:44409] logged in with entity id 77 at (90.65782877971633, 101.0, 888.8122114461061)
+[22:15:42] [Server thread/INFO]: LightAster joined the game
+[22:16:19] [Server thread/INFO]: Patricia0[/127.139.241.115:43997] logged in with entity id 345 at (-105.69999998807907, 88.0, 628.3000000119209)
+[22:16:19] [Server thread/INFO]: Patricia0 joined the game
+[22:22:37] [Server thread/INFO]: LightAster has made the advancement [Cover Me with Diamonds]
+[22:28:54] [Server thread/INFO]: [LightAster: Teleported LightAster to Patricia0]
+[22:31:39] [Server thread/INFO]: [LightAster: Teleported Patricia0 to LightAster]
+[22:32:55] [Server thread/INFO]: Patricia0 has made the advancement [Monster Hunter]
+[22:38:55] [Server thread/INFO]: LightAster has made the advancement [Ice Bucket Challenge]
+[22:40:39] [Server thread/INFO]: [LightAster: Teleported LightAster to Patricia0]
+[22:41:31] [Server thread/INFO]: LightAster has made the advancement [We Need to Go Deeper]
+[22:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4707ms or 94 ticks behind
+[22:43:18] [Server thread/INFO]: Patricia0 has made the advancement [We Need to Go Deeper]
+[22:43:30] [Server thread/INFO]: [LightAster: Gamerule keepInventory is now set to: true]
+[22:51:58] [Server thread/INFO]: [LightAster: Teleported LightAster to Patricia0]
+[22:53:03] [Server thread/WARN]: LightAster moved too quickly! 9.730766152487334,-0.45546773958502484,3.057462967210313
+[23:04:36] [Server thread/INFO]: Patricia0 fell from a high place
